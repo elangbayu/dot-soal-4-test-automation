@@ -1,0 +1,8 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<TestCaseEntity>
+   <description></description>
+   <name>Create, Read, Update, and Delete User</name>
+   <tag>Positif</tag>
+   <comment></comment>
+   <testCaseGuid>bc9a804f-fb36-46b1-9b51-22606b1b45ed</testCaseGuid>
+</TestCaseEntity>

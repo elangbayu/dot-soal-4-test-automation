@@ -1,0 +1,8 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<TestCaseEntity>
+   <description></description>
+   <name>User register successfully but login failed</name>
+   <tag>Negatif</tag>
+   <comment></comment>
+   <testCaseGuid>f29758da-1b74-4910-84cc-64a21b8f3d70</testCaseGuid>
+</TestCaseEntity>
